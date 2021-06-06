@@ -1,0 +1,436 @@
+{
+    "patterns": [
+        {
+            "name": "Fox",
+            "year": "2016",
+            "description": "",
+            "image": "images/fox.jpg",
+            "code": "004-M15stl",
+            "finished": true
+        },
+        {
+            "name": "Red Dragon",
+            "year": "2001",
+            "description": "",
+            "image": "images/red-dragon.jpg",
+            "code": "004-606stl",
+            "finished": true
+        },
+        {
+            "name": "Pug",
+            "year": "2017",
+            "description": "",
+            "image": "images/pug.jpg",
+            "code": "004-M11stl",
+            "finished": true
+        },
+        {
+            "name": "Elf",
+            "year": "2008",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "",
+            "finished": false
+        },
+        {
+            "name": "Tortoise",
+            "year": "2003",
+            "description": "",
+            "image": "images/tortoise.jpg",
+            "code": "004-809stl",
+            "finished": false
+        },
+        {
+            "name": "Golfing Teddy",
+            "year": "2013",
+            "description": "",
+            "image": "images/golfing-teddy.jpg",
+            "code": "004-J04stl",
+            "finished": false
+        },
+        {
+            "name": "Horse",
+            "year": "2010",
+            "description": "",
+            "image": "images/horse.jpg",
+            "code": "",
+            "finished": false
+        },
+        {
+            "name": "Bright Butterfly",
+            "year": "2009",
+            "description": "",
+            "image": "images/bright-butterfly.jpg",
+            "code": "004-E02stl",
+            "finished": false
+        },
+        {
+            "name": "Camping",
+            "year": "2011",
+            "description": "",
+            "image": "images/camping.jpg",
+            "code": "004-G02stl",
+            "finished": false
+        },
+        {
+            "name": "Space Invaders",
+            "year": "2013",
+            "description": "",
+            "image": "images/space-invaders.jpg",
+            "code": "004-J03stl",
+            "finished": false
+        },
+        {
+            "name": "Have A Pint",
+            "year": "2010",
+            "description": "for special occasions",
+            "image": "images/have-a-pint.jpg",
+            "code": "014-843stl",
+            "finished": false
+        },
+        {
+            "name": "Happy Birthday",
+            "year": "2003",
+            "description": "for special occasions",
+            "image": "images/happy-birthday.jpg",
+            "code": "014-444stl",
+            "finished": false
+        },
+        {
+            "name": "Easter Chicks",
+            "year": "2005",
+            "description": "for special occasions",
+            "image": "images/.jpg",
+            "code": "014-643stl",
+            "finished": false
+        },
+        {
+            "name": "Graduation Teddy",
+            "year": "2013",
+            "description": "for special occasions",
+            "image": "images/graduation-teddy.jpg",
+            "code": "014-942stl",
+            "finished": true
+        },
+        {
+            "name": "Hummingbird",
+            "year": "2015",
+            "description": "",
+            "image": "images/hummingbird.jpg",
+            "code": "004-L08stl",
+            "finished": true
+        },
+        {
+            "name": "Owl (Tiddlers)",
+            "year": "2004",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "003-403sml",
+            "finished": false
+        },
+        {
+            "name": "Viking",
+            "year": "2008",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "004-D02stl",
+            "finished": true
+        },
+        {
+            "name": "Meerkat",
+            "year": "2009",
+            "description": "",
+            "image": "images/meerkat.jpg",
+            "code": "004-E05stl",
+            "finished": false
+        },
+        {
+            "name": "Steam Train",
+            "year": "2009",
+            "description": "",
+            "image": "images/steam-train.jpg",
+            "code": "004-E08stl",
+            "finished": false
+        },
+        {
+            "name": "Panda",
+            "year": "2006",
+            "description": "",
+            "image": "images/panda.jpg",
+            "code": "004-B07stl",
+            "finished": false
+        },
+        {
+            "name": "Counting Carrots",
+            "year": "2010",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "004-F07stl",
+            "finished": false
+        },
+        {
+            "name": "Spaceman",
+            "year": "2006",
+            "description": "",
+            "image": "images/spaceman.jpg",
+            "code": "004-B10stl",
+            "finished": true
+        },
+        {
+            "name": "Orang-utan",
+            "year": "2006",
+            "description": "",
+            "image": "images/orang-utan.jpg",
+            "code": "004-B06stl",
+            "finished": true
+        },
+        {
+            "name": "Snake",
+            "year": "2007",
+            "description": "At the Zoo",
+            "image": "images/.jpg",
+            "code": "00A-004atz",
+            "finished": true
+        },
+        {
+            "name": "Helicopter",
+            "year": "2008",
+            "description": "",
+            "image": "images/helicopter.jpg",
+            "code": "004-D04stl",
+            "finished": false
+        },
+        {
+            "name": "Spider",
+            "year": "1998",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "319stl",
+            "finished": true
+        },
+        {
+            "name": "Blue Butterfly",
+            "year": "2004",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "004-901stl",
+            "finished": true
+        },
+        {
+            "name": "Dragon",
+            "year": "1998",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "301stl",
+            "finished": true
+        },
+        {
+            "name": "Fancy Butterfly",
+            "year": "2007",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "004-C10stl",
+            "finished": false
+        },
+        {
+            "name": "Polar Bear",
+            "year": "1997",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "215stl",
+            "finished": false
+        },
+        {
+            "name": "Camel",
+            "year": "2007",
+            "description": "At the Zoo",
+            "image": "images/.jpg",
+            "code": "00A-005atz",
+            "finished": true
+        },
+        {
+            "name": "Penguin",
+            "year": "2000",
+            "description": "",
+            "image": "images/penguin.jpg",
+            "code": "004-503stl",
+            "finished": true
+        },
+        {
+            "name": "Wizard",
+            "year": "2001",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "616stl",
+            "finished": true
+        },
+        {
+            "name": "Treasure Island",
+            "year": "2004",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "909stl",
+            "finished": true
+        },
+        {
+            "name": "Kingfisher",
+            "year": "2002",
+            "description": "",
+            "image": "images/kingfisher.jpg",
+            "code": "004-706stl",
+            "finished": true
+        },
+        {
+            "name": "Bi-plane",
+            "year": "2007",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "004-C04stl",
+            "finished": true
+        },
+        {
+            "name": "Giraffe",
+            "year": "2005",
+            "description": "",
+            "image": "images/giraffe.jpg",
+            "code": "004-A05stl",
+            "finished": true
+        },
+        {
+            "name": "Whale",
+            "year": "2000",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "506stl",
+            "finished": true
+        },
+        {
+            "name": "Emperor Penguin",
+            "year": "2001",
+            "description": "",
+            "image": "images/emperor-penguin.jpg",
+            "code": "612stl",
+            "finished": true
+        },
+        {
+            "name": "Monkey",
+            "year": "2007",
+            "description": "At the Zoo",
+            "image": "images/.jpg",
+            "code": "00A-003atz",
+            "finished": true
+        },
+        {
+            "name": "Dolphin",
+            "year": "2002",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "623stl",
+            "finished": true
+        },
+        {
+            "name": "Gecko",
+            "year": "2006",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "004-B05stl",
+            "finished": true
+        },
+        {
+            "name": "London Bus",
+            "year": "2005",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "004-A11stl",
+            "finished": true
+        },
+        {
+            "name": "Mouseloft Logo",
+            "year": "2005",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "000stl",
+            "finished": true
+        },
+        {
+            "name": "",
+            "year": "",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "",
+            "finished": false
+        },
+        {
+            "name": "",
+            "year": "",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "",
+            "finished": false
+        },
+        {
+            "name": "",
+            "year": "",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "",
+            "finished": false
+        },
+        {
+            "name": "",
+            "year": "",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "",
+            "finished": false
+        },
+        {
+            "name": "",
+            "year": "",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "",
+            "finished": false
+        },
+        {
+            "name": "",
+            "year": "",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "",
+            "finished": false
+        },
+        {
+            "name": "",
+            "year": "",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "",
+            "finished": false
+        },
+        {
+            "name": "",
+            "year": "",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "",
+            "finished": false
+        },
+        {
+            "name": "",
+            "year": "",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "",
+            "finished": false
+        },
+        {
+            "name": "",
+            "year": "",
+            "description": "",
+            "image": "images/.jpg",
+            "code": "",
+            "finished": false
+        }
+    ]
+}
