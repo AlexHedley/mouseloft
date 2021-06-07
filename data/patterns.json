@@ -121,10 +121,10 @@
             "finished": true
         },
         {
-            "name": "Owl (Tiddlers)",
+            "name": "Owl",
             "year": "2004",
-            "description": "",
-            "image": "images/.jpg",
+            "description": "Tiddlers",
+            "image": "images/owl.jpg",
             "code": "003-403sml",
             "finished": false
         },
@@ -132,7 +132,7 @@
             "name": "Viking",
             "year": "2008",
             "description": "",
-            "image": "images/.jpg",
+            "image": "images/viking.jpg",
             "code": "004-D02stl",
             "finished": true
         },
@@ -164,7 +164,7 @@
             "name": "Counting Carrots",
             "year": "2010",
             "description": "",
-            "image": "images/.jpg",
+            "image": "images/counting-carrots.jpg",
             "code": "004-F07stl",
             "finished": false
         },
@@ -188,7 +188,7 @@
             "name": "Snake",
             "year": "2007",
             "description": "At the Zoo",
-            "image": "images/.jpg",
+            "image": "images/snake.jpg",
             "code": "00A-004atz",
             "finished": true
         },
@@ -228,7 +228,7 @@
             "name": "Fancy Butterfly",
             "year": "2007",
             "description": "",
-            "image": "images/.jpg",
+            "image": "images/fancy-butterfly.jpg",
             "code": "004-C10stl",
             "finished": false
         },
@@ -244,7 +244,7 @@
             "name": "Camel",
             "year": "2007",
             "description": "At the Zoo",
-            "image": "images/.jpg",
+            "image": "images/camel.jpg",
             "code": "00A-005atz",
             "finished": true
         },
@@ -284,7 +284,7 @@
             "name": "Bi-plane",
             "year": "2007",
             "description": "",
-            "image": "images/.jpg",
+            "image": "images/bi-plane.jpg",
             "code": "004-C04stl",
             "finished": true
         },
@@ -300,7 +300,7 @@
             "name": "Whale",
             "year": "2000",
             "description": "",
-            "image": "images/.jpg",
+            "image": "images/whale.jpg",
             "code": "506stl",
             "finished": true
         },
@@ -316,7 +316,7 @@
             "name": "Monkey",
             "year": "2007",
             "description": "At the Zoo",
-            "image": "images/.jpg",
+            "image": "images/monkey.jpg",
             "code": "00A-003atz",
             "finished": true
         },
@@ -324,7 +324,7 @@
             "name": "Dolphin",
             "year": "2002",
             "description": "",
-            "image": "images/.jpg",
+            "image": "images/dolphin.jpg",
             "code": "623stl",
             "finished": true
         },
@@ -332,7 +332,7 @@
             "name": "Gecko",
             "year": "2006",
             "description": "",
-            "image": "images/.jpg",
+            "image": "images/gecko.jpg",
             "code": "004-B05stl",
             "finished": true
         },
@@ -340,7 +340,7 @@
             "name": "London Bus",
             "year": "2005",
             "description": "",
-            "image": "images/.jpg",
+            "image": "images/london-bus.jpg",
             "code": "004-A11stl",
             "finished": true
         },
